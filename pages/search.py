@@ -21,6 +21,7 @@ class DuckDuckGoSearchPage:
 
   def __init__(self, browser):
     self.browser = browser
+    #self.browser.maximize_window()
 
   # Interaction Methods
 
